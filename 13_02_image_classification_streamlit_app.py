@@ -7,7 +7,7 @@ import requests
 from io import BytesIO
 
 # Create application title and file uploader widget.
-st.title("OpenCV Deep Learning based Image Classification")
+st.title("Darien's Deep Learning based Image Classification")
 
 
 # @st.cache(allow_output_mutation=True)
